@@ -1,4 +1,4 @@
- Customer Churn Management and Analytics
+ Bank Customer Segmentation and Churn Prediction
 
 Overview
 
