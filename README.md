@@ -41,7 +41,3 @@ Project Components
 
 This project provides a comprehensive approach to customer churn management, combining segmentation and predictive analytics to optimize retention strategies.
 
-Contributors
-
-- [Radhika Gupta](https://github.com/GuptaRadhikaa)
-- [Palak Mangla](https://github.com/ManglaPalak)
